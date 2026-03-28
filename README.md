@@ -1,4 +1,4 @@
-<h1 align="left">Hello there, I'm Kaveesha</h1>
+<h1 align="left">Hello there👋 , I'm Kaveesha</h1>
 
 ###
 
@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" title="Vite" />
 </div>
 
 <br>
@@ -73,8 +72,6 @@
 <p align="left">
 <b>AgroLink:</b> A farmer-friendly web platform eliminating middlemen by connecting farmers directly with buyers.<br><br>
 <b>Student Management System:</b> A full-stack platform built with Spring Boot, React, and MySQL for persistent storage.<br><br>
-<b>Edusity:</b> A modern, responsive university education SPA using React.js.<br><br>
-<b>Edulog:</b> A modern desktop app built with C#.NET 8 WPF (MVVM) for tracking student performance.
 </p>
 
 ###
@@ -85,6 +82,4 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/kaveesha-pathumina" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:kaveeshapathumina1234@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
-<a href="[INSERT_YOUR_PORTFOLIO_LINK_HERE]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" height="30" width="40" /></a>
 </p>
